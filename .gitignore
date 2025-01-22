@@ -1,3 +1,8 @@
+archive/
+dataset/
+ssd_mobilenet_v2.tflite
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
